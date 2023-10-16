@@ -1,4 +1,4 @@
-<h1>JHeat Index Calculator</h1>
+<h1>Heat Index Calculator</h1>
 
 <h2>Description</h2>
 Developed  Java application that calculates the human-perceived equivalent temperature when the actual air temperature is combined with the relative humidity. That is to say, how hot it feels in terms of felt air temperature.
